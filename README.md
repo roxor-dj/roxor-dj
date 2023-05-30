@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roxor-dj
-- 👀 I’m interested in Everything
+- 👀 I’m interested in QA, but also intersted in other areas of computer science
 - 🌱 I’m currently learning TypeScript/Playwright
 - 💞️ I’m looking to collaborate on defi project, blockchain project etc..
 - 📫 How to reach me 

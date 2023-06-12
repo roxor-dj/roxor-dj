@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Djordje, but call me just DJ
+- 👋 Hi, I’m @Djordje, but you can call me just DJ
 - 👀 I’m interested in QA, but also intersted in other areas of computer science, especially Blockchain and Crypto. 
 - 🌱 I’m currently learning TypeScript/Playwright
 - 💞️ I’m looking to collaborate on defi project, blockchain project etc..
